@@ -1,0 +1,34 @@
+day 1:-
+learned about eventlistener,data-key,audios in html
+about transition(scaling,transform)
+
+.addeventlistener('eventname',callback function )
+
+
+task 2:-
+learned about transform origin and about rotate in transform ,about different 
+things can be transition (ease etc) like custom things
+amd also learme about date variav=ble sin js
+
+task 3:
+learned about CSS variables and how they work
+
+Task 4:-
+Learned about various methods that ca be used with an array,object like
+.filter(),.reduce(),.sort(),.map()
+
+.filter()=> the name suggests the use
+
+.reduce()=> used to calculate or get the result of something after taking in note the
+	    individual values of items in an object or array  
+
+.sort()=> used for sorting
+
+.map()=> used to map the required values from a set into another variable
+
+
+
+Task 5:-
+
+learned a bit abput flexbox texhniques and used them to design a simple web page.
+	
