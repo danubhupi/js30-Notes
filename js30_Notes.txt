@@ -31,4 +31,12 @@ Learned about various methods that ca be used with an array,object like
 Task 5:-
 
 learned a bit abput flexbox texhniques and used them to design a simple web page.
+
+
+
+Task 6:-
+
+Used fetch api for retriving data and promises were handled then updated on real time
+events keyup and change are used for this and then DOM used to change the innerHtml
+of respective elements to show the result.
 	
