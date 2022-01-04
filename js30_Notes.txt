@@ -39,4 +39,17 @@ Task 6:-
 Used fetch api for retriving data and promises were handled then updated on real time
 events keyup and change are used for this and then DOM used to change the innerHtml
 of respective elements to show the result.
-	
+
+
+Task 7:-
+
+It was another cardio day
+learned some methods like some(),every(),find(),findIndex()
+
+some() returns true if there is even one object that maches the given conditions
+
+every() return true if every object satisfies the conditions
+
+find() returns the object from the array that matche s the requirements
+
+findIndex() returns the index of required object
