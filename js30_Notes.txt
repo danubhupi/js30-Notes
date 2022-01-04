@@ -53,3 +53,17 @@ every() return true if every object satisfies the conditions
 find() returns the object from the array that matche s the requirements
 
 findIndex() returns the index of required object
+
+
+Task 8:-
+
+It was about HTML Canvas, i lerned about canvas and increasing its size to max also
+learned about getContext ,moveTo ,beginPath,lineTo,stroke functions
+
+the properties of marke are set by lineWidth,linecap,stroleStyle
+
+also learned about hsl(h,s,l) hue ,saturation,light
+
+added some random feautures on my own
+
+overall it was a good lesson
