@@ -73,3 +73,25 @@ Task 10:-
 
 Check the checkboxes from one to another when the shift key is pressed and
 behave normally when shift key is not pressed.
+
+
+
+Task 11:-
+
+Make a custom HTML Video Player
+
+learned a lot through this one
+
+like about the offestX,Y variables or values in each event and using them to set the 
+current time of a video
+
+ski[ping through a video
+
+going back to a moment
+
+using clicks on divs as events and then using the info in the event to change properties of 
+things in the document.
+
+usin ranges ad events on them to cahnge properties of the video
+
+making a element or thing fullscreen and then exiting fullscreen 
