@@ -95,3 +95,17 @@ things in the document.
 usin ranges ad events on them to cahnge properties of the video
 
 making a element or thing fullscreen and then exiting fullscreen 
+
+
+
+Task 13:-
+
+In task 13 we needed to make functions that make images slide in at a certain point while scrolling
+for that we used transform and transition in css
+
+Here i learned about  DEBOUNCING ,in debouncing wha we do is that we can call a function again only
+after a certain time period is passed after the previous call
+
+Keeping in mind that function calling and function invocation are different thing
+
+Here suppose  
