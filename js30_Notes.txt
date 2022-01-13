@@ -109,3 +109,22 @@ after a certain time period is passed after the previous call
 Keeping in mind that function calling and function invocation are different thing
 
 Here suppose  
+
+Task 15:-
+
+here is learned about local storage which doesnt change when the page is refreshed,so we can 
+save some info in the local storage and use it even after the page is reloaded
+
+also learned abput event delegation, it means that an event listener is added to the 
+oarent rather than the child ,what this helps s with is that we do not need to add individual 
+event listeners to children element, 
+
+why dont we want to add events to individual childs?
+We dont want to do that in some cases because in thse cases we might add more children elemnts
+later and then the new children wont have the event listeners and the cpde will break
+for them.
+
+Task 16:-
+
+made shadows that changed according to the position of the mouse ,easy tings it only required
+a bit of math 
